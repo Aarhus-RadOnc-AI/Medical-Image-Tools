@@ -9,20 +9,20 @@ A compiled list of useful tools
 
 ## Format Conversion
 ### Images
-#### Dicom --> Nifti
+#### Dicom to Nifti
 - [dcm2niix](https://github.com/rordenlab/dcm2niix)
 - [SimpleITK](https://simpleitk.org/)
 - [Slicer3D](https://download.slicer.org/)
 - [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK))
-#### Nifti --> Dicom
+#### Nifti to Dicom
 - [SimpleITK](https://simpleitk.org/)
 ### Contours
-#### Dicom RTSTRUCT --> Nifti
+#### Dicom RTSTRUCT to Nifti
 - [dcmrtstruct2nii](https://github.com/Sikerdebaard/dcmrtstruct2nii) [Aarhus-RadOnc-AI](https://github.com/Aarhus-RadOnc-AI/dcmrtstruct2nii/)
 - [Slicer3D](https://download.slicer.org/)
-#### Nifti --> Dicom RTSTRUCT
+#### Nifti to Dicom RTSTRUCT
 - [rt-utils](https://github.com/qurit/rt-utils)
-#### Nifti --> Dicom Segmentation
+#### Nifti to Dicom Segmentation
 - [Highdicom](https://github.com/ImagingDataCommons/highdicom)
 
 ## Python Packages
